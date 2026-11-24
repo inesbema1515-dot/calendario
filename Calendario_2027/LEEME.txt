@@ -1,0 +1,14 @@
+CALENDARIO 2027
+
+1_Imprimir
+  - meses/: los 12 meses (parte de los números) + la contraportada, en PNG a 300 ppp.
+  - Calendario_2027_vista_previa.pdf: el calendario completo, con cada foto encima de su mes.
+
+2_App
+  - Calendario_2027.html: la app en un solo archivo, con las fotos incluidas.
+    Ábrelo en Chrome. Los planes se guardan solo en ese navegador.
+  - web/: la misma app separada en index.html + carpeta img/ (para subirla a una web, p. ej. Vercel).
+    Mantén index.html e img/ juntos o las fotos no se verán.
+
+Versión con planes en la nube (sincroniza móvil, ordenador y Sofía):
+  https://claude.ai/artifact/E1qU8jBZdQYD6BsdgFf3RV
